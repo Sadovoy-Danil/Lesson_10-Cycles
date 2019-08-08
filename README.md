@@ -2,9 +2,11 @@
 
 > ### Для повторения однообразного действия можно использовоть _Циклы_
 
-<img src = 'img/do.png' align = 'left'>
-<img src = 'img/do-while.png' align = 'right'>
-<img src = 'img/for.png' align = 'center'>
+<p>
+  <img src = 'img/while.png' align = 'left'>
+  <img src = 'img/do-while.png' align = 'right'>
+  <img src = 'img/for.png' align = 'center'>
+</p>
 
 _**Словарь**_
 

@@ -2,11 +2,13 @@
 
 > ### Для повторения однообразного действия можно использовоть _Циклы_
 
+## Существует 3 вида операторов циклов
+
 <p>  
-  <img src = 'img/for.png' align = 'right'>
-  Существует 3 вида операторов циклов
-  <img src = 'img/do-while.png'>
   <img src = 'img/while.png' align = 'left'>
+  <img src = 'img/for.png' align = 'right'>
+  <img src = 'img/do-while.png'>
+
 </p>
 
 _**Словарь**_

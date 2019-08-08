@@ -5,7 +5,7 @@
 <p>
   <img src = 'img/while.png' align = 'left'>
   <img src = 'img/do-while.png' align = 'right'>
-  <img src = 'img/for.png' align = 'center'>
+  <img src = 'img/for.png'>
 </p>
 
 _**Словарь**_
